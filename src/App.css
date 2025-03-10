@@ -1,0 +1,21 @@
+#WholeGrid{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 50px;
+  padding: 50px;
+  background-color:bisque ;
+
+}
+
+#card{
+  background-color:orange ;
+  color:brown;
+  padding: 40px;
+}
+#name{
+  text-align: right;
+}
+#review{
+  text-align: left;
+
+}
